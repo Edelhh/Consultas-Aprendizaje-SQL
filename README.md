@@ -5,3 +5,4 @@ Pagina usada: https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html
 * Tienda Informatica.
 * Gestión de Empleados.
 * Gestión de Ventas.
+* Jardinería.
